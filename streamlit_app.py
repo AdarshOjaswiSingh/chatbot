@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 import json
 
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.schema import Document
 
