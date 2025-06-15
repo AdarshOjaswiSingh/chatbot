@@ -2,3 +2,5 @@ streamlit
 openai
 langchain==0.2.0
 faiss-cpu
+langchain-openai
+langchain-community
