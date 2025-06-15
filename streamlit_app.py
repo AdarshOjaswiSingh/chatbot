@@ -3,7 +3,7 @@ from openai import OpenAI
 import json
 
 from langchain_openai import OpenAIEmbeddings
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
 
 # Title and instructions
