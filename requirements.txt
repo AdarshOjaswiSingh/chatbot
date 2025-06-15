@@ -4,3 +4,4 @@ langchain
 langchain-openai
 faiss-cpu
 tiktoken
+pip install langchain-community
